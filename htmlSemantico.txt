@@ -1,0 +1,14 @@
+Html Semantico 
+Etiquetas con Significado
+Ayuda a tu sitio a ser accesible
+Codigo mas claro
+Mejora tu posicionamiento seo.
+Ayuda a google a entender mejor nuestro sitio.
+
+Inde.html
+<header>
+<nav>
+<section>
+<article>
+<img>
+<foter>

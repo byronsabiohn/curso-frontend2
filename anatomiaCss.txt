@@ -1,0 +1,11 @@
+Primero hay que entender que es el selector
+Selector: Es el que nos comunica con el HTML
+Las Llaves {}: Es donde ira el codigo
+"Propiedad:Valor"
+
+Selectores Basicos
+De tipo: div {}
+De clase: .elemento{}
+de ID: #Id-del-Selector
+De Atributo: a[href=""}
+Universal: (*) este 
